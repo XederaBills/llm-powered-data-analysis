@@ -52,3 +52,6 @@ This Streamlit-based application allows users to interact with CSV files using n
     PandasAI
     pandas
     dotenv
+
+## 📝 License
+    This project is open-source under the MIT License.
